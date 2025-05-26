@@ -1,0 +1,11 @@
+[[{'panel': 'rect1', 'edge': 1}, {'panel': 'rect2', 'edge': 3}], 
+ [{'panel': 'rect2', 'edge': 1}, {'panel': 'rect3', 'edge': 3}],  
+ [{'panel': 'rect3', 'edge': 1}, {'panel': 'rect4', 'edge': 3}], 
+ [{'panel': 'rect4', 'edge': 1}, {'panel': 'rect1', 'edge': 3}], 
+ [{'panel': 'rect1', 'edge': 2}, {'panel': 'square', 'edge': 0}], 
+ [{'panel': 'rect2', 'edge': 2}, {'panel': 'square', 'edge': 1}], 
+ [{'panel': 'rect3', 'edge': 2}, {'panel': 'square', 'edge': 2}], 
+ [{'panel': 'rect4', 'edge': 2}, {'panel': 'square', 'edge': 3}], 
+ [{'panel': 'handle1', 'edge': 1}, {'panel': 'handle2', 'edge': 3}], 
+ [{'panel': 'handle1', 'edge': 3}, {'panel': 'handle2', 'edge': 1}]]
+

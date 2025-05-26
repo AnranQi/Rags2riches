@@ -17,7 +17,7 @@ hems present in the existing garment, thereby preserving the embedded
 value of these structural components and simplifying the fabrication of the
 new garment.
 
-More details can be found at: [[project page]](https://) | [[paper]](https://anranqi.github.io/img/rags2riches_author_compress.pdf)  
+More details can be found at: [[project page]](https://anranqi.github.io/Rigs2riches.github.io/) | [[paper]](https://anranqi.github.io/img/rags2riches_author_compress.pdf)  
 
 # Setup:
  ```bash
